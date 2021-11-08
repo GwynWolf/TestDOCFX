@@ -1,0 +1,11 @@
+C:\Work\VSProjects\ClassLib3\bin\Debug\ClassLib3.dll
+C:\Work\VSProjects\ClassLib3\bin\Debug\ClassLib3.pdb
+C:\Work\VSProjects\ClassLib3\obj\Debug\ClassLib3.csproj.CoreCompileInputs.cache
+C:\Work\VSProjects\ClassLib3\obj\Debug\ClassLib3.dll
+C:\Work\VSProjects\ClassLib3\obj\Debug\ClassLib3.pdb
+C:\Work\VSProjects\ClassLib3\obj\Debug\ClassLib3.csproj.AssemblyReference.cache
+C:\Work\VSProjects\ClassLib3\ClassLib3\bin\Debug\ClassLib3.dll
+C:\Work\VSProjects\ClassLib3\ClassLib3\bin\Debug\ClassLib3.pdb
+C:\Work\VSProjects\ClassLib3\ClassLib3\obj\Debug\ClassLib3.csproj.CoreCompileInputs.cache
+C:\Work\VSProjects\ClassLib3\ClassLib3\obj\Debug\ClassLib3.dll
+C:\Work\VSProjects\ClassLib3\ClassLib3\obj\Debug\ClassLib3.pdb
